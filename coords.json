@@ -1,0 +1,77 @@
+{
+	"events": [
+		{
+			"comment": "right click bell",
+			"click": {
+				"pos": [958, 356],
+				"type": "right"
+			},
+			"delay": 2.0
+		},
+		{
+			"comment": "click retainer (retainer1 - 947, 517) (retainer2 - 947, 541)",
+			"click": [947, 517],
+			"delay": 2.0
+		},
+		{
+			"comment": "skip chat",
+			"click": [947, 890],
+			"delay": 0.5
+		},
+		{
+			"comment": "view venture report",
+			"click": [925, 575],
+			"delay": 0.5
+		},
+		{
+			"comment": "reassign",
+			"click": [896, 626],
+			"delay": 0.5
+		},
+		{
+			"comment": "assign",
+			"click": [888, 710],
+			"delay": 0.5
+		},
+		{
+			"comment": "skip chat",
+			"click": [962, 862],
+			"delay": 0.5
+		},
+		{
+			"comment": "quit",
+			"click": [948, 664],
+			"delay": 0.5
+		},
+		{
+			"comment": "skip chat",
+			"click": [929, 861],
+			"delay": 1.0
+		},
+		{
+			"comment": "exit retainer menu",
+			"click": [1395, 451],
+			"delay": 600.0
+		},
+		{
+			"comment": "anti afk - jump",
+			"button": "space",
+			"delay": 600.0
+		},
+		{
+			"comment": "anti afk - jump",
+			"button": "space",
+			"delay": 600.0
+		},
+		{
+			"comment": "anti afk - jump",
+			"button": "space",
+			"delay": 600.0
+		},
+		{
+			"comment": "anti afk - jump",
+			"button": "space",
+			"delay": 5.0
+		}
+	]
+}
